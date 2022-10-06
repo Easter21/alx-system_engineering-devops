@@ -1,0 +1,3 @@
+#!/bin/bash
+chown -h :x
+:holberton _hello
