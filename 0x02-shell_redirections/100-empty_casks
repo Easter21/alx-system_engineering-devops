@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -and -type f -empty -and -name ".*" -print 
+find . -type d -empty -and -type f -empty -and -name ".*"  
