@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d -empty -or -type f -or -name ".*"  
+#!/bin/bash 
+find . -empty -printf '%f\n'
